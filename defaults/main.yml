@@ -1,0 +1,4 @@
+---
+# defaults file for elastic-role
+ansible_connection: ssh 
+elastic_version: "7.14.0"
